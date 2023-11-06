@@ -3,7 +3,7 @@ Deepshore's Operators Catalog
 
 ## How to add an operator bundle to the catalog
 
-1. Modify `catalog-template.yaml` according to your needs. See the [docs](https://olm.operatorframework.io/docs/tasks/creating-a-catalog/#organizing-the-bundles-into-channels).
+1. Modify [catalog-template.yaml](catalog-template.yaml) according to your needs. See the [docs](https://olm.operatorframework.io/docs/reference/catalog-templates/#semver-template).
 2. Create a pull request.
 3. After the merge GithubActions take care of the rest.
 
