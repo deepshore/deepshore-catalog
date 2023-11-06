@@ -17,7 +17,7 @@ Create a `Subscription`. See the [example](example/subscription.yaml).
 
 ## What else?
 
-Create a `CustomResource` according to the installed operator.
+Create a `CustomResource` matching the installed operator.
 
 ## How to run the example
 
