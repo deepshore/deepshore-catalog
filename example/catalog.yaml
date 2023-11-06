@@ -1,0 +1,13 @@
+apiVersion: operators.coreos.com/v1alpha1
+kind: CatalogSource
+metadata:
+  name: deepshore-catalog
+  namespace: chirpstack-operator
+spec:
+  sourceType: grpc
+  image: quay.io/maltegroth/deepshore-catalog:latest
+  displayName: Deepshore Catalog
+  publisher: Me
+  updateStrategy:
+    registryPoll:
+      interval: 10m

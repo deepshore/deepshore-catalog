@@ -1,0 +1,6 @@
+resources:
+  - namespace.yaml
+  - catalog.yaml
+  - subscription.yaml
+
+namespace: chirpstack-operator
