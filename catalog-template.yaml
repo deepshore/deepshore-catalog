@@ -4,3 +4,4 @@ GenerateMinorChannels: false
 Stable:
   Bundles:
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.2
+  - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.3
