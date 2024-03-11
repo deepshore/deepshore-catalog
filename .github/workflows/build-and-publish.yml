@@ -30,7 +30,7 @@ jobs:
           sudo install -m 0755 /tmp/linux-amd64-opm /usr/local/bin/opm
 
       - name: Generate catalog
-        run: make generate-catalog
+        run: mkdir $REPO_IMAGE && make generate-catalog
 
       - name: Validate catalog
         run: make validate-catalog

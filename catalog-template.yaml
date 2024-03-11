@@ -5,3 +5,4 @@ Stable:
   Bundles:
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.2
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.3
+  - Image: quay.io/maltegroth/deep-ployment-operator-bundle:v0.0.1
