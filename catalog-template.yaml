@@ -7,6 +7,6 @@ Stable:
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.3
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.4
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.5
-Development:
+Preview:
   Bundles:
   - Image: quay.io/maltegroth/chirpstack-operator-bundle:v0.0.6
